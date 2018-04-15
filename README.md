@@ -9,7 +9,7 @@ Potenciómetro <br>
 LM35<br>
 Resistencias <br>
 Programa en Java <br>
-Librería para la conexión de java y Arduino <br>
+Librería para la conexión de java y Arduino <br><br><br>
 
 En esta práctica se realizará una conexión con java y Arduino 
 En la cual se enviará un mensaje desde java y se mostrará en 
