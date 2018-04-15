@@ -15,7 +15,7 @@ En esta práctica se realizará una conexión con java y Arduino
 En la cual se enviará un mensaje desde java y se mostrará en 
 la pantalla LCD, así como también se mostrará la temperatura, 
 fecha, hora. <br><br>
-!["hora"](https://github.com/yonelgovea22/MensajesLCD/blob/master/hora.jpg 150 x 150 px)<br>
+!["hora"](https://github.com/yonelgovea22/MensajesLCD/blob/master/hora.jpg "150 x 150 px")<br>
 !["hora"](https://github.com/yonelgovea22/MensajesLCD/blob/master/mensaje.jpg)<br>
 !["hora"](https://github.com/yonelgovea22/MensajesLCD/blob/master/fecha.jpg)<br>
 !["hora"](https://github.com/yonelgovea22/MensajesLCD/blob/master/tem.jpg)
