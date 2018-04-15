@@ -14,5 +14,6 @@ Librería para la conexión de java y Arduino <br><br><br>
 En esta práctica se realizará una conexión con java y Arduino 
 En la cual se enviará un mensaje desde java y se mostrará en 
 la pantalla LCD, así como también se mostrará la temperatura, 
-fecha, hora. 
+fecha, hora. <br><br>
+(https://github.com/yonelgovea22/MensajesLCD/blob/master/hora.jpg "hora")
 
