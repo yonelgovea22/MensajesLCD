@@ -1,7 +1,7 @@
 # MensajesLCD
 <h1>Pantalla LCD Mensajes, Fecha y Temperatura  </h1>
 <h3>Material:</h3><br>
-Arduino <br>
+<li>Arduino </li><br>
 Proto<br>
 Pantalla LCD<br>
 Cables<br>
